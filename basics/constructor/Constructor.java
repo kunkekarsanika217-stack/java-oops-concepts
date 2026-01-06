@@ -4,7 +4,7 @@ class Employee {
     private String name;
     private double salary;
 
-    // Default constructor
+    // Non-parameterized constructor
     public Employee() {
         this.id = 0;
         this.name = "Not Assigned";
